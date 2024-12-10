@@ -12,7 +12,7 @@ const AppCreator: React.FC = () => {
         <h2 className={`${playfair.className} text-2xl font-bold mb-4 text-center text-gold-500`}>App Creator</h2>
         <div className="flex flex-col items-center">
           <img 
-            src="/placeholder.svg?height=100&width=100" 
+            src="https://avatars.githubusercontent.com/u/135858540?v=4" 
             alt="Nihith Penumuchu" 
             className="w-24 h-24 rounded-full mb-4"
           />
