@@ -8,6 +8,13 @@ const lato = Lato({ weight: ['400', '700'], subsets: ['latin'] })
 export const metadata = {
   title: 'LuxeAuto - Premium Car Marketplace',
   description: 'Buy and sell luxury cars with ease',
+  icons: [
+    {
+      rel: 'icon',
+      type: 'image/svg+xml',
+      url: '/favicon.svg',
+    },
+  ],
 }
 
 export default function RootLayout({
